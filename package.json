@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Express Redis Webpack StarterKit",
+  "name": "node-express-redis-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
